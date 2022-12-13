@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Arsene01/drum-machine#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.1"
